@@ -1,0 +1,250 @@
+[
+    {
+        "answer": "journey",
+        "word1": "trip",
+        "word2": "travel",
+        "word3": "adventure",
+        "word4": "go",
+        "word5": "voyage"
+    },
+    {
+        "answer": "swelter",
+        "word1": "heat",
+        "word2": "sweat",
+        "word3": "perspire",
+        "word4": "hot",
+        "word5": "tempurature"
+    },
+    {
+        "answer": "lunch",
+        "word1": "meal",
+        "word2": "sandwich",
+        "word3": "noon",
+        "word4": "eat",
+        "word5": "breakfast"
+    },
+    {
+        "answer": "tornado",
+        "word1": "twister",
+        "word2": "wind",
+        "word3": "funnel",
+        "word4": "storm",
+        "word5": "cyclone"
+    },
+    {
+        "answer": "iron",
+        "word1": "steel",
+        "word2": "metal",
+        "word3": "golf",
+        "word4": "curtain",
+        "word5": "press"
+    },
+    {
+        "answer": "race track",
+        "word1": "greyhound",
+        "word2": "horses",
+        "word3": "sports car",
+        "word4": "bet",
+        "word5": "run"
+    },
+    {
+        "answer": "jackpot",
+        "word1": "win",
+        "word2": "hit",
+        "word3": "gamble",
+        "word4": "money",
+        "word5": "slot machine"
+    },
+    {
+        "answer": "theater",
+        "word1": "broadway",
+        "word2": "play",
+        "word3": "actors",
+        "word4": "stage",
+        "word5": "movie"
+    },
+    {
+        "answer": "easter",
+        "word1": "holiday",
+        "word2": "bunny",
+        "word3": "eggs",
+        "word4": "christian",
+        "word5": "basket"
+    },
+    {
+        "answer": "emergency",
+        "word1": "crisis",
+        "word2": "911",
+        "word3": "help",
+        "word4": "call",
+        "word5": "situation"
+    },
+    {
+        "answer": "calculator",
+        "word1": "computer",
+        "word2": "total",
+        "word3": "adding machine",
+        "word4": "math",
+        "word5": "numbers"
+    },
+    {
+        "answer": "thanksgiving",
+        "word1": "turkey",
+        "word2": "holiday",
+        "word3": "pilgrims",
+        "word4": "november",
+        "word5": "eat"
+    },
+    {
+        "answer": "drum",
+        "word1": "instrument",
+        "word2": "band",
+        "word3": "stick",
+        "word4": "beat",
+        "word5": "music"
+    },
+    {
+        "answer": "canoe",
+        "word1": "boat",
+        "word2": "paddle",
+        "word3": "camping",
+        "word4": "water",
+        "word5": "wood"
+    },
+    {
+        "answer": "career",
+        "word1": "profession",
+        "word2": "job",
+        "word3": "vocation",
+        "word4": "living",
+        "word5": "work"
+    },
+    {
+        "answer": "landscape",
+        "word1": "lawn",
+        "word2": "plant",
+        "word3": "painting",
+        "word4": "scene",
+        "word5": "gardener"
+    },
+    {
+        "answer": "torpedo",
+        "word1": "submarine",
+        "word2": "ship",
+        "word3": "missile",
+        "word4": "underwater",
+        "word5": "explode"
+    },
+    {
+        "answer": "chauffeur",
+        "word1": "wheel",
+        "word2": "drive",
+        "word3": "limousine",
+        "word4": "car",
+        "word5": "uniform"
+    },
+    {
+        "answer": "movie",
+        "word1": "watch",
+        "word2": "film",
+        "word3": "netflix",
+        "word4": "theater",
+        "word5": "screen"
+    },
+    {
+        "answer": "diaper",
+        "word1": "smelly",
+        "word2": "cloth",
+        "word3": "disposible",
+        "word4": "baby",
+        "word5": "rash"
+    },
+    {
+        "answer": "hose",
+        "word1": "water",
+        "word2": "rubber",
+        "word3": "stockings",
+        "word4": "panty",
+        "word5": "sprinkler"
+    },
+    {
+        "answer": "tarantula",
+        "word1": "spider",
+        "word2": "black",
+        "word3": "legs",
+        "word4": "hairy",
+        "word5": "web"
+    },
+    {
+        "answer": "cottage",
+        "word1": "country",
+        "word2": "cheese",
+        "word3": "house",
+        "word4": "cabin",
+        "word5": "little"
+    },
+    {
+        "answer": "widow",
+        "word1": "dead",
+        "word2": "spouse",
+        "word3": "woman",
+        "word4": "black",
+        "word5": "spider"
+    },
+    {
+        "answer": "feather",
+        "word1": "wing",
+        "word2": "pillow",
+        "word3": "fly",
+        "word4": "bird",
+        "word5": "light"
+    },
+    {
+        "answer": "precious",
+        "word1": "rare",
+        "word2": "gem",
+        "word3": "expensive",
+        "word4": "adorable",
+        "word5": "valuable"
+    },
+    {
+        "answer": "leap",
+        "word1": "frog",
+        "word2": "year",
+        "word3": "quantum",
+        "word4": "jump",
+        "word5": "flying"
+    },
+    {
+        "answer": "ranch",
+        "word1": "cowboys",
+        "word2": "cattle",
+        "word3": "west",
+        "word4": "horses",
+        "word5": "land"
+    },
+    {
+        "answer": "beaver",
+        "word1": "leave",
+        "word2": "canada",
+        "word3": "animal",
+        "word4": "dam",
+        "word5": "teeth"
+    },
+    {
+        "answer": "giggle",
+        "word1": "laugh",
+        "word2": "chuckle",
+        "word3": "funny",
+        "word4": "silly",
+        "word5": "tickle"
+    },
+    {
+        "answer": "violin",
+        "word1": "music",
+        "word2": "instrument",
+        "word3": "string",
+        "word4": "bow",
+        "word5": "chin"
+    }
+]
