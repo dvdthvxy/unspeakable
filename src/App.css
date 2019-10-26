@@ -2,6 +2,11 @@
   text-align: center;
 }
 
+ul,
+.card h1 {
+  margin: 0;
+}
+
 ul {
   list-style: none;
   padding: 0;
@@ -12,9 +17,31 @@ ul {
   margin: 0 auto
 }
 
+.timer,
+.card h1 {
+  font-size: 2rem;
+}
+
+.timer,
+.card {
+  margin: 10px auto;
+}
+
 .card {
   width: 300px;
-  border: 1px solid black;
+  border: 2px solid black;
   border-radius: 10px;
-  line-height: 2rem;
+  line-height: 4rem;
+  overflow: hidden;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-size: 1.5rem;
+}
+
+.card h1 {
+  color: deeppink;
+  font-weight: 700;
+  /* font-size: 2rem; */
+  border-bottom: 3px solid deeppink;
+  text-transform: capitalize;
 }

@@ -44,12 +44,18 @@ class App extends Component {
     })
   }
 
+  startGame = (e) => {
+    this.setState({
+      startGame: true,
+    })
+  }
+
   componentDidMount() {
     const shuffledDeck = this.shuffle(deck)
     const currentWord = shuffledDeck[this.state.index]
     this.setState({
       deck: shuffledDeck,
-      currentWord
+      currentWord: currentWord
     })
     console.log("mounted")
   }
@@ -58,10 +64,13 @@ class App extends Component {
     return (
       <div className="App">
         <div className="wrapper">
-          <Timer />
-          {this.state.currentWord ? <Card word={this.state.currentWord} />
+          {this.state.currentWord ? 
+            <React.Fragment>
+              <Timer />
+              <Card word={this.state.currentWord} />
+              <button onClick={this.nextCard}>NEXT</button>
+            </React.Fragment>
             : null}
-          <button onClick={this.nextCard}>NEXT</button>
         </div>
       </div>
     )

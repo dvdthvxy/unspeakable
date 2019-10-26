@@ -1,4 +1,4 @@
-import React, {Component} from 'react';
+import React, { Component } from 'react';
 
 class Timer extends Component {
     constructor() {
@@ -29,7 +29,9 @@ class Timer extends Component {
             clearInterval(this.interval)
         }
         return (
-            <div>{this.state.currentTime}</div>
+            <div className="timer">
+                {this.state.currentTime}
+            </div>
         )
     }
 }
