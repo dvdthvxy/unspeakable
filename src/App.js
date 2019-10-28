@@ -30,7 +30,6 @@ class App extends Component {
   }
 
   nextCard = (e) => {
-    console.log("clicked")
     let index = this.state.index + 1
     const deck = this.state.deck
 
@@ -57,7 +56,6 @@ class App extends Component {
       deck: shuffledDeck,
       currentWord: currentWord
     })
-    console.log("mounted")
   }
 
   render() {
@@ -68,7 +66,7 @@ class App extends Component {
             <React.Fragment>
               <Timer />
               <Card word={this.state.currentWord} />
-              <button onClick={this.nextCard}>NEXT</button>
+              <button className="nextButton"onClick={this.nextCard}>NEXT</button>
             </React.Fragment>
             : null}
         </div>

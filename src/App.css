@@ -14,7 +14,7 @@ ul {
 
 .wrapper {
   width: 80%;
-  margin: 0 auto
+  margin: 0 auto;
 }
 
 .timer,
@@ -44,4 +44,20 @@ ul {
   /* font-size: 2rem; */
   border-bottom: 3px solid deeppink;
   text-transform: capitalize;
+}
+
+.preloader {
+  height: 387px;
+  display: flex;
+  justify-content: center;
+}
+
+.preloader p {
+  align-self: center;
+}
+
+.nextButton {
+  width: 300px;
+  height: 100px;
+  background: none;
 }
