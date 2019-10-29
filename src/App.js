@@ -3,6 +3,7 @@ import deck from "./deck/deck.json"
 import './App.css';
 import Card from "./components/Card.js"
 import Timer from "./components/Timer.js"
+import Intro from "./components/Intro.js"
 
 class App extends Component {
   constructor() {
@@ -49,6 +50,12 @@ class App extends Component {
     })
   }
 
+  endGame = (e) => {
+    this.setState({
+      startGame: false,
+    })
+  }
+
   componentDidMount() {
     const shuffledDeck = this.shuffle(deck)
     const currentWord = shuffledDeck[this.state.index]
@@ -62,13 +69,13 @@ class App extends Component {
     return (
       <div className="App">
         <div className="wrapper">
-          {this.state.currentWord ? 
+          {this.state.startGame ? 
             <React.Fragment>
-              <Timer />
+              <Timer endGame={this.endGame}/>
               <Card word={this.state.currentWord} />
-              <button className="nextButton"onClick={this.nextCard}>NEXT</button>
+              <button className="nextButton" onClick={this.nextCard}>NEXT</button>
             </React.Fragment>
-            : null}
+            : <Intro startGame={this.startGame}/>}
         </div>
       </div>
     )

@@ -1318,5 +1318,309 @@
         "word3": "mount st. helens",
         "word4": "hawaii",
         "word5": "flow"
+    },
+    {
+        "answer": "earth",
+        "word1": "globe",
+        "word2": "world",
+        "word3": "planet",
+        "word4": "ground",
+        "word5": "mother"
+    },
+    {
+        "answer": "flag",
+        "word1": "checkered",
+        "word2": "red",
+        "word3": "stars and stripes",
+        "word4": "country",
+        "word5": "wave"
+    },
+    {
+        "answer": "subway",
+        "word1": "underground",
+        "word2": "train",
+        "word3": "tracks",
+        "word4": "city",
+        "word5": "token"
+    },
+    {
+        "answer": "airplane",
+        "word1": "wings",
+        "word2": "fly",
+        "word3": "runway",
+        "word4": "jet",
+        "word5": "pilot"
+    },
+    {
+        "answer": "floss",
+        "word1": "dentist",
+        "word2": "teeth",
+        "word3": "brush",
+        "word4": "string",
+        "word5": "waxed"
+    },
+    {
+        "answer": "catalog",
+        "word1": "shop",
+        "word2": "order",
+        "word3": "merchandise",
+        "word4": "buy",
+        "word5": "mail"
+    },
+    {
+        "answer": "code",
+        "word1": "secret",
+        "word2": "morse",
+        "word3": "zip",
+        "word4": "area",
+        "word5": "number"
+    },
+    {
+        "answer": "syrup",
+        "word1": "maple",
+        "word2": "pancakes",
+        "word3": "trees",
+        "word4": "sap",
+        "word5": "sweet"
+    },
+    {
+        "answer": "halo",
+        "word1": "angel",
+        "word2": "heaven",
+        "word3": "good",
+        "word4": "head",
+        "word5": "wings"
+    },
+    {
+        "answer": "bride",
+        "word1": "wedding",
+        "word2": "groom",
+        "word3": "marry",
+        "word4": "white",
+        "word5": "veil"
+    },
+    {
+        "answer": "upstairs",
+        "word1": "steps",
+        "word2": "floor",
+        "word3": "basement",
+        "word4": "house",
+        "word5": "room"
+    },
+    {
+        "answer": "gallon",
+        "word1": "measurement",
+        "word2": "quart",
+        "word3": "gasoline",
+        "word4": "pint",
+        "word5": "liquid"
+    },
+    {
+        "answer": "chariot",
+        "word1": "race",
+        "word2": "rome",
+        "word3": "horse",
+        "word4": "gladiator",
+        "word5": "wheels"
+    },
+    {
+        "answer": "blush",
+        "word1": "red",
+        "word2": "cheeks",
+        "word3": "make-up",
+        "word4": "embarrass",
+        "word5": "face"
+    },
+    {
+        "answer": "toilet",
+        "word1": "throne",
+        "word2": "john",
+        "word3": "flush",
+        "word4": "sit",
+        "word5": "bathroom"
+    },
+    {
+        "answer": "scurry",
+        "word1": "move",
+        "word2": "hurry",
+        "word3": "mouse",
+        "word4": "run",
+        "word5": "quick"
+    },
+    {
+        "answer": "jukebox",
+        "word1": "songs",
+        "word2": "music",
+        "word3": "machine",
+        "word4": "records",
+        "word5": "quarters"
+    },
+    {
+        "answer": "peel",
+        "word1": "banana",
+        "word2": "rind",
+        "word3": "skin",
+        "word4": "covering",
+        "word5": "orange"
+    },
+    {
+        "answer": "khaki",
+        "word1": "cloth",
+        "word2": "material",
+        "word3": "tan",
+        "word4": "military",
+        "word5": "uniform"
+    },
+    {
+        "answer": "dead end",
+        "word1": "street",
+        "word2": "exit",
+        "word3": "road",
+        "word4": "no",
+        "word5": "cul-de-sac"
+    },
+    {
+        "answer": "copycat",
+        "word1": "imitator",
+        "word2": "ape",
+        "word3": "mimic",
+        "word4": "like",
+        "word5": "same"
+    },
+    {
+        "answer": "test",
+        "word1": "exam",
+        "word2": "quiz",
+        "word3": "S.A.T",
+        "word4": "school",
+        "word5": "take"
+    },
+    {
+        "answer": "shampoo",
+        "word1": "wash",
+        "word2": "hair",
+        "word3": "lather",
+        "word4": "suds",
+        "word5": "L'Oreal"
+    },
+    {
+        "answer": "google",
+        "word1": "search",
+        "word2": "internet",
+        "word3": "pixel",
+        "word4": "company",
+        "word5": "chrome"
+    },
+    {
+        "answer": "paper route",
+        "word1": "delivery",
+        "word2": "newscarrier",
+        "word3": "job",
+        "word4": "kids",
+        "word5": "bike"
+    },
+    {
+        "answer": "las vegas",
+        "word1": "casino",
+        "word2": "gambling",
+        "word3": "atlantic city",
+        "word4": "slot machine",
+        "word5": "nevada"
+    },
+    {
+        "answer": "trophy",
+        "word1": "cup",
+        "word2": "prize",
+        "word3": "award",
+        "word4": "win",
+        "word5": "sports"
+    },
+    {
+        "answer": "scenery",
+        "word1": "view",
+        "word2": "beautiful",
+        "word3": "look",
+        "word4": "landscape",
+        "word5": "change"
+    },
+    {
+        "answer": "pasta",
+        "word1": "spaghetti",
+        "word2": "italian",
+        "word3": "noodles",
+        "word4": "food",
+        "word5": "eat"
+    },
+    {
+        "answer": "mt. rushmore",
+        "word1": "heads",
+        "word2": "presidents",
+        "word3": "landmark",
+        "word4": "faces",
+        "word5": "carving"
+    },
+    {
+        "answer": "roomba",
+        "word1": "vacuum",
+        "word2": "robot",
+        "word3": "dj",
+        "word4": "parks and recreation",
+        "word5": "clean"
+    },
+    {
+        "answer": "instagram",
+        "word1": "pictures",
+        "word2": "influencer",
+        "word3": "app",
+        "word4": "images",
+        "word5": "photo"
+    },
+    {
+        "answer": "facebook",
+        "word1": "friends",
+        "word2": "share",
+        "word3": "photo",
+        "word4": "post",
+        "word5": "social media"
+    },
+    {
+        "answer": "walmart",
+        "word1": "store",
+        "word2": "prices",
+        "word3": "black friday",
+        "word4": "blue",
+        "word5": "cheap"
+    },
+    {
+        "answer": "starbucks",
+        "word1": "green",
+        "word2": "coffee",
+        "word3": "drink",
+        "word4": "latte",
+        "word5": "grande"
+    },
+    {
+        "answer": "ikea",
+        "word1": "furniture",
+        "word2": "sweden",
+        "word3": "meatballs",
+        "word4": "lingonberry",
+        "word5": "store"
+    },
+    {
+        "answer": "twitter",
+        "word1": "post",
+        "word2": "share",
+        "word3": "tweet",
+        "word4": "photo",
+        "word5": "social media"
+    },
+    {
+        "answer": "nike",
+        "word1": "sports",
+        "word2": "athelete",
+        "word3": "sponsor",
+        "word4": "brand",
+        "word5": "shoes"
     }
 ]
