@@ -2,7 +2,7 @@
   "name": "unspeakable",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/dvdthvxy/unspeakable",
+  "homepage": "http://dvdthvxy.github.io/unspeakable",
   "dependencies": {
     "materialize-css": "^1.0.0-rc.2",
     "react": "^16.10.2",
