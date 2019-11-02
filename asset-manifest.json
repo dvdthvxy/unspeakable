@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/unspeakable/static/css/main.bce9fa89.chunk.css",
+    "main.css": "/unspeakable/static/css/main.eedc0add.chunk.css",
     "main.js": "/unspeakable/static/js/main.a6f758a4.chunk.js",
     "main.js.map": "/unspeakable/static/js/main.a6f758a4.chunk.js.map",
     "runtime-main.js": "/unspeakable/static/js/runtime-main.5135723a.js",
@@ -8,16 +8,16 @@
     "static/js/2.a57e356d.chunk.js": "/unspeakable/static/js/2.a57e356d.chunk.js",
     "static/js/2.a57e356d.chunk.js.map": "/unspeakable/static/js/2.a57e356d.chunk.js.map",
     "index.html": "/unspeakable/index.html",
-    "precache-manifest.5e75ad2fcba362b9f7a361f5520f9b7c.js": "/unspeakable/precache-manifest.5e75ad2fcba362b9f7a361f5520f9b7c.js",
+    "precache-manifest.aae1af20caab1722be4bb361bc2616af.js": "/unspeakable/precache-manifest.aae1af20caab1722be4bb361bc2616af.js",
     "service-worker.js": "/unspeakable/service-worker.js",
-    "static/css/main.bce9fa89.chunk.css.map": "/unspeakable/static/css/main.bce9fa89.chunk.css.map",
+    "static/css/main.eedc0add.chunk.css.map": "/unspeakable/static/css/main.eedc0add.chunk.css.map",
     "static/media/titleIMG.png": "/unspeakable/static/media/titleIMG.ae1e624c.png",
     "static/media/wrongBuzzerSoundEffect.mp3": "/unspeakable/static/media/wrongBuzzerSoundEffect.515abdc8.mp3"
   },
   "entrypoints": [
     "static/js/runtime-main.5135723a.js",
     "static/js/2.a57e356d.chunk.js",
-    "static/css/main.bce9fa89.chunk.css",
+    "static/css/main.eedc0add.chunk.css",
     "static/js/main.a6f758a4.chunk.js"
   ]
 }
