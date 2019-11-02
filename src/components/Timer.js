@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import Buzzer from '../assets/wrongBuzzerSoundEffect.mp3'
 
 class Timer extends Component {
     constructor() {
@@ -22,6 +23,11 @@ class Timer extends Component {
             startTime
         })
         this.interval = setInterval(() => this.runTime(), 100)
+    }
+
+    componentWillUnmount() {
+        const buzzer = new Audio(Buzzer)
+        buzzer.play()
     }
 
     render() {

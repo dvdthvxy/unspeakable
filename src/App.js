@@ -1,9 +1,10 @@
 import React, { Component } from 'react';
 import deck from "./deck/deck.json"
 import './App.css';
-import Card from "./components/Card.js"
-import Timer from "./components/Timer.js"
+// import Card from "./components/Card.js"
+// import Timer from "./components/Timer.js"
 import Intro from "./components/Intro.js"
+import GameScreen from './components/GameScreen.js'
 
 class App extends Component {
   constructor() {
@@ -65,16 +66,18 @@ class App extends Component {
     })
   }
 
+//   <div className="gameScreen">
+//   <Timer endGame={this.endGame} nextCard={this.nextCard} />
+//   <Card word={this.state.currentWord} />
+//   <button className="nextButton" onClick={this.nextCard}>NEXT</button>
+// </div>
+
   render() {
     return (
       <div className="App">
         <div className="wrapper">
           {this.state.startGame ? 
-            <React.Fragment>
-              <Timer endGame={this.endGame} nextCard={this.nextCard}/>
-              <Card word={this.state.currentWord} />
-              <button className="nextButton" onClick={this.nextCard}>NEXT</button>
-            </React.Fragment>
+            <GameScreen endGame={this.endGame} nextCard={this.nextCard} currentWord={this.state.currentWord} onClick={this.nextCard}/>
             : <Intro startGame={this.startGame}/>}
         </div>
       </div>

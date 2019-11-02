@@ -1,11 +1,14 @@
 import React, {Component} from "react";
+import introIMG from '../assets/titleIMG.png'
 
 class Intro extends Component {
     render() {
         return(
-            <div>
+            <div className="intro">
                 <h1>Unspeakable</h1>
-                {/* <img src="" alt=""/> */}
+                <div className="introIMG">
+                    <img src={introIMG} alt=""/>
+                </div>
                 <button onClick={this.props.startGame}>START</button>
             </div>
         )
