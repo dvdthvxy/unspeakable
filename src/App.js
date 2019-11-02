@@ -71,7 +71,7 @@ class App extends Component {
         <div className="wrapper">
           {this.state.startGame ? 
             <React.Fragment>
-              <Timer endGame={this.endGame}/>
+              <Timer endGame={this.endGame} nextCard={this.nextCard}/>
               <Card word={this.state.currentWord} />
               <button className="nextButton" onClick={this.nextCard}>NEXT</button>
             </React.Fragment>
