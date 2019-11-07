@@ -7,7 +7,7 @@ class GameScreen extends Component {
     render() {
         return(
             <div className="gameScreen">
-                <Timer endGame={this.endGame} nextCard={this.nextCard} />
+                <Timer endGame={this.props.endGame} nextCard={this.props.nextCard} />
                 <Card word={this.props.currentWord} />
                 <button className="nextButton" onClick={this.props.nextCard}>NEXT</button>
             </div>

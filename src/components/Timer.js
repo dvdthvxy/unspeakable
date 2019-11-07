@@ -10,7 +10,7 @@ class Timer extends Component {
         }
     }
 
-    runTime() {
+    runTime = () => {
         const currentTime = Math.trunc((this.state.startTime - new Date()) / 1000)
         this.setState({
             currentTime
