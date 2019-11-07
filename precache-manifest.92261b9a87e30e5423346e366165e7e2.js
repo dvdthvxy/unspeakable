@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a8e1f4da6e46792ce517ada7703be28c",
+    "revision": "685c40fad3709b07eb5596fb9a7146bc",
     "url": "/unspeakable/index.html"
   },
   {
-    "revision": "fc81d58b06fd56254cd2",
+    "revision": "da616bc2b49cc82329b0",
     "url": "/unspeakable/static/css/main.64b6a42e.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/unspeakable/static/js/2.a57e356d.chunk.js"
   },
   {
-    "revision": "fc81d58b06fd56254cd2",
-    "url": "/unspeakable/static/js/main.a6f758a4.chunk.js"
+    "revision": "da616bc2b49cc82329b0",
+    "url": "/unspeakable/static/js/main.acd74f2c.chunk.js"
   },
   {
     "revision": "c16ac5ad6c7d3bfd9077",
