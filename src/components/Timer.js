@@ -26,6 +26,7 @@ class Timer extends Component {
     }
 
     componentWillUnmount() {
+        this.props.nextCard()
         const buzzer = new Audio(Buzzer)
         buzzer.play()
     }
@@ -33,7 +34,6 @@ class Timer extends Component {
     render() {
         if (this.state.currentTime === 0) {
             clearInterval(this.interval)
-            this.props.nextCard()
             this.props.endGame()
         }
         return (
