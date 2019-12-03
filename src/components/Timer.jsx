@@ -15,6 +15,10 @@ class Timer extends Component {
         this.setState({
             currentTime
         })
+        if (this.state.currentTime <= 0) {
+            clearInterval(this.interval)
+            this.props.endGame()
+        }
     }
 
     componentDidMount() {
@@ -32,10 +36,6 @@ class Timer extends Component {
     }
 
     render() {
-        if (this.state.currentTime === 0) {
-            clearInterval(this.interval)
-            this.props.endGame()
-        }
         return (
             <div className="timer">
                 {this.state.currentTime}

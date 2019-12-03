@@ -5,7 +5,7 @@ import './App.css';
 // import Timer from "./components/Timer.js"
 import Intro from "./components/Intro"
 import GameScreen from './components/GameScreen'
-import HowToPlay from './components/HowToPlay'
+// import HowToPlay from './components/HowToPlay'
 
 class App extends Component {
   constructor() {
@@ -59,7 +59,7 @@ class App extends Component {
     })
   }
 
-  displayModal = () => {
+  toggleDisplay = () => {
     const bool = !this.state.displayModal
     this.setState({
       displayModal: bool
@@ -82,10 +82,7 @@ class App extends Component {
           {this.state.startGame ?
             <GameScreen endGame={this.endGame} nextCard={this.nextCard} currentWord={this.state.currentWord} onClick={this.nextCard} />
             :
-            <>
-              <Intro startGame={this.startGame} displayModal={this.displayModal} />
-              <HowToPlay displayModal={this.state.displayModal} closeModal={this.displayModal}/>
-            </>
+            <Intro startGame={this.startGame} toggleDisplay={this.toggleDisplay} displayModal={this.state.displayModal} />
           }
         </div>
       </div>
