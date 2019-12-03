@@ -3,8 +3,9 @@ import deck from "./deck/deck.json"
 import './App.css';
 // import Card from "./components/Card.js"
 // import Timer from "./components/Timer.js"
-import Intro from "./components/Intro.js"
-import GameScreen from './components/GameScreen.js'
+import Intro from "./components/Intro"
+import GameScreen from './components/GameScreen'
+import HowToPlay from './components/HowToPlay'
 
 class App extends Component {
   constructor() {
@@ -13,7 +14,8 @@ class App extends Component {
       deck: undefined,
       index: 0,
       currentWord: undefined,
-      startGame: false
+      startGame: false,
+      displayModal: false
     }
   }
 
@@ -57,6 +59,13 @@ class App extends Component {
     })
   }
 
+  displayModal = () => {
+    const bool = !this.state.displayModal
+    this.setState({
+      displayModal: bool
+    })
+  }
+
   componentDidMount() {
     const shuffledDeck = this.shuffle(deck)
     const currentWord = shuffledDeck[this.state.index]
@@ -66,19 +75,18 @@ class App extends Component {
     })
   }
 
-//   <div className="gameScreen">
-//   <Timer endGame={this.endGame} nextCard={this.nextCard} />
-//   <Card word={this.state.currentWord} />
-//   <button className="nextButton" onClick={this.nextCard}>NEXT</button>
-// </div>
-
   render() {
     return (
       <div className="App">
         <div className="wrapper">
-          {this.state.startGame ? 
-            <GameScreen endGame={this.endGame} nextCard={this.nextCard} currentWord={this.state.currentWord} onClick={this.nextCard}/>
-            : <Intro startGame={this.startGame}/>}
+          {this.state.startGame ?
+            <GameScreen endGame={this.endGame} nextCard={this.nextCard} currentWord={this.state.currentWord} onClick={this.nextCard} />
+            :
+            <>
+              <Intro startGame={this.startGame} displayModal={this.displayModal} />
+              <HowToPlay displayModal={this.state.displayModal} closeModal={this.displayModal}/>
+            </>
+          }
         </div>
       </div>
     )
