@@ -2127,4 +2127,540 @@
         "word4": "stemware",
         "word5": "crystal"
     },
+    {
+        "answer": "champagne",
+        "word1": "wine",
+        "word2": "bubbles",
+        "word3": "cork",
+        "word4": "toast",
+        "word5": "dom perignon"
+    },
+    {
+        "answer": "trash",
+        "word1": "can",
+        "word2": "collector",
+        "word3": "garbage",
+        "word4": "rubbish",
+        "word5": "compactor"
+    },
+    {
+        "answer": "olive",
+        "word1": "green",
+        "word2": "oil",
+        "word3": "popeye",
+        "word4": "martini",
+        "word5": "pimiento"
+    },
+    {
+        "answer": "magazine",
+        "word1": "read",
+        "word2": "articles",
+        "word3": "subscribe",
+        "word4": "stories",
+        "word5": "photos"
+    },
+    {
+        "answer": "knot",
+        "word1": "tie",
+        "word2": "rope",
+        "word3": "string",
+        "word4": "shoelace",
+        "word5": "tangle"
+    },
+    {
+        "answer": "envelope",
+        "word1": "mail",
+        "word2": "stamp",
+        "word3": "address",
+        "word4": "letter",
+        "word5": "seal"
+    },
+    {
+        "answer": "basement",
+        "word1": "cellar",
+        "word2": "bottom",
+        "word3": "house",
+        "word4": "hatchway",
+        "word5": "downstairs"
+    },
+    {
+        "answer": "giraffe",
+        "word1": "animal",
+        "word2": "neck",
+        "word3": "tall",
+        "word4": "long",
+        "word5": "spotted"
+    },
+    {
+        "answer": "kamikaze",
+        "word1": "pilot",
+        "word2": "flier",
+        "word3": "plane",
+        "word4": "suicidal",
+        "word5": "japanese"
+    },
+    {
+        "answer": "arthritis",
+        "word1": "rheumatism",
+        "word2": "aching",
+        "word3": "joints",
+        "word4": "old",
+        "word5": "pain"
+    },
+    {
+        "answer": "daydream",
+        "word1": "think",
+        "word2": "sleep",
+        "word3": "fantasize",
+        "word4": "bored",
+        "word5": "mind"
+    },
+    {
+        "answer": "chalkboard",
+        "word1": "black",
+        "word2": "slate",
+        "word3": "classroom",
+        "word4": "school",
+        "word5": "write"
+    },
+    {
+        "answer": "poem",
+        "word1": "limerick",
+        "word2": "rhyme",
+        "word3": "verse",
+        "word4": "write",
+        "word5": "words"
+    },
+    {
+        "answer": "orchestra",
+        "word1": "symphony",
+        "word2": "concert",
+        "word3": "conductor",
+        "word4": "instruments",
+        "word5": "musicians"
+    },
+    {
+        "answer": "new year's eve",
+        "word1": "party",
+        "word2": "times square",
+        "word3": "january",
+        "word4": "december",
+        "word5": "midnight"
+    },
+    {
+        "answer": "crash",
+        "word1": "stock market",
+        "word2": "accident",
+        "word3": "car",
+        "word4": "party",
+        "word5": "collision"
+    },
+    {
+        "answer": "lawn mower",
+        "word1": "yard",
+        "word2": "cut",
+        "word3": "ride",
+        "word4": "grass",
+        "word5": "green"
+    },
+    {
+        "answer": "virgin",
+        "word1": "girl",
+        "word2": "sex",
+        "word3": "young",
+        "word4": "pure",
+        "word5": "innocent"
+    },
+    {
+        "answer": "flier",
+        "word1": "pilot",
+        "word2": "airplane",
+        "word3": "frequent",
+        "word4": "brochure",
+        "word5": "leaflet"
+    },
+    {
+        "answer": "beard",
+        "word1": "man",
+        "word2": "face",
+        "word3": "hair",
+        "word4": "shave",
+        "word5": "mustache"
+    },
+    {
+        "answer": "trunk",
+        "word1": "elephant",
+        "word2": "car",
+        "word3": "suitcase",
+        "word4": "tree",
+        "word5": "spare tire"
+    },
+    {
+        "answer": "himalayas",
+        "word1": "mountains",
+        "word2": "everest",
+        "word3": "high",
+        "word4": "climb",
+        "word5": "peaks"
+    },
+    {
+        "answer": "diner",
+        "word1": "eat",
+        "word2": "greasy spoon",
+        "word3": "restaurant",
+        "word4": "truck stop",
+        "word5": "mel"
+    },
+    {
+        "answer": "applause",
+        "word1": "cheers",
+        "word2": "clapping",
+        "word3": "ovation",
+        "word4": "perform",
+        "word5": "hand"
+    },
+    {
+        "answer": "bulb",
+        "word1": "light",
+        "word2": "tulip",
+        "word3": "screw",
+        "word4": "glass",
+        "word5": "watt"
+    },
+    {
+        "answer": "fireplace",
+        "word1": "logs",
+        "word2": "chimney",
+        "word3": "brick",
+        "word4": "burn",
+        "word5": "wood"
+    },
+    {
+        "answer": "ufo",
+        "word1": "alien",
+        "word2": "spaceship",
+        "word3": "see",
+        "word4": "sky",
+        "word5": "lights"
+    },
+    {
+        "answer": "electric train",
+        "word1": "lionel",
+        "word2": "tracks",
+        "word3": "caboose",
+        "word4": "engine",
+        "word5": "toy"
+    },
+    {
+        "answer": "hook",
+        "word1": "fish",
+        "word2": "captain",
+        "word3": "worm",
+        "word4": "ladder",
+        "word5": "sinker"
+    },
+    {
+        "answer": "intelligent",
+        "word1": "dumb",
+        "word2": "smart",
+        "word3": "brainy",
+        "word4": "brilliant",
+        "word5": "stupid"
+    },
+    {
+        "answer": "millionaire",
+        "word1": "money",
+        "word2": "wealthy",
+        "word3": "rich",
+        "word4": "dollars",
+        "word5": "lottery"
+    },
+    {
+        "answer": "irritate",
+        "word1": "bug",
+        "word2": "nerves",
+        "word3": "aggravate",
+        "word4": "annoy",
+        "word5": "bother"
+    },
+    {
+        "answer": "skirt",
+        "word1": "blouse",
+        "word2": "mini",
+        "word3": "dress",
+        "word4": "clothing",
+        "word5": "wear"
+    },
+    {
+        "answer": "fondue",
+        "word1": "chocolate",
+        "word2": "forks",
+        "word3": "cheese",
+        "word4": "dip",
+        "word5": "spear"
+    },
+    {
+        "answer": "kangaroo",
+        "word1": "pouch",
+        "word2": "hop",
+        "word3": "animal",
+        "word4": "australia",
+        "word5": "captain"
+    },
+    {
+        "answer": "tunnel",
+        "word1": "underground",
+        "word2": "love",
+        "word3": "cars",
+        "word4": "mountains",
+        "word5": "hole"
+    },
+    {
+        "answer": "surprise",
+        "word1": "astonish",
+        "word2": "party",
+        "word3": "expect",
+        "word4": "birthday",
+        "word5": "off-guard"
+    },
+    {
+        "answer": "kermit the frog",
+        "word1": "muppet",
+        "word2": "puppet",
+        "word3": "green",
+        "word4": "miss piggy",
+        "word5": "television"
+    },
+    {
+        "answer": "street",
+        "word1": "road",
+        "word2": "avenue",
+        "word3": "way",
+        "word4": "drive",
+        "word5": "cross"
+    },
+    {
+        "answer": "hostage",
+        "word1": "kidnap",
+        "word2": "hold",
+        "word3": "ransom",
+        "word4": "take",
+        "word5": "iran"
+    },
+    {
+        "answer": "croak",
+        "word1": "frog",
+        "word2": "die",
+        "word3": "kick",
+        "word4": "sound",
+        "word5": "noise"
+    },
+    {
+        "answer": "ax",
+        "word1": "lizzie borden",
+        "word2": "hatchet",
+        "word3": "chop",
+        "word4": "wood",
+        "word5": "lumberjack"
+    },
+    {
+        "answer": "ladder",
+        "word1": "climb",
+        "word2": "rung",
+        "word3": "steps",
+        "word4": "paint",
+        "word5": "high"
+    },
+    {
+        "answer": "chaperone",
+        "word1": "escort",
+        "word2": "supervisor",
+        "word3": "adult",
+        "word4": "school",
+        "word5": "go"
+    },
+    {
+        "answer": "muffler",
+        "word1": "under",
+        "word2": "noise",
+        "word3": "car",
+        "word4": "exhaust",
+        "word5": "tailpipe"
+    },
+    {
+        "answer": "vitamin c",
+        "word1": "nutrition",
+        "word2": "colds",
+        "word3": "oranges",
+        "word4": "citrus",
+        "word5": "pills"
+    },
+    {
+        "answer": "thirst",
+        "word1": "drink",
+        "word2": "dry",
+        "word3": "water",
+        "word4": "quench",
+        "word5": "liquid"
+    },
+    {
+        "answer": "book",
+        "word1": "paperback",
+        "word2": "pages",
+        "word3": "novel",
+        "word4": "library",
+        "word5": "read"
+    },
+    {
+        "answer": "protest",
+        "word1": "sit-in",
+        "word2": "demonstrate",
+        "word3": "students",
+        "word4": "war",
+        "word5": "march"
+    },
+    {
+        "answer": "aquarium",
+        "word1": "tank",
+        "word2": "fish",
+        "word3": "water",
+        "word4": "sea",
+        "word5": "glass"
+    },
+    {
+        "answer": "attack",
+        "word1": "heart",
+        "word2": "assault",
+        "word3": "sneak",
+        "word4": "battle",
+        "word5": "defend"
+    },
+    {
+        "answer": "elephant",
+        "word1": "animal",
+        "word2": "africa",
+        "word3": "trunk",
+        "word4": "ivory",
+        "word5": "tusk"
+    },
+    {
+        "answer": "adolescent",
+        "word1": "adult",
+        "word2": "teenager",
+        "word3": "puberty",
+        "word4": "young",
+        "word5": "kid"
+    },
+    {
+        "answer": "alone",
+        "word1": "solo",
+        "word2": "single",
+        "word3": "self",
+        "word4": "only",
+        "word5": "nobody"
+    },
+    {
+        "answer": "actor",
+        "word1": "performer",
+        "word2": "star",
+        "word3": "movies",
+        "word4": "theater",
+        "word5": "television"
+    },
+    {
+        "answer": "golf",
+        "word1": "course",
+        "word2": "tee",
+        "word3": "clubs",
+        "word4": "caddy",
+        "word5": "ball"
+    },
+    {
+        "answer": "orthodontist",
+        "word1": "dentist",
+        "word2": "braces",
+        "word3": "teeth",
+        "word4": "mouth",
+        "word5": "doctor"
+    },
+    {
+        "answer": "zebra",
+        "word1": "black",
+        "word2": "white",
+        "word3": "stripes",
+        "word4": "horse",
+        "word5": "africa"
+    },
+    {
+        "answer": "porridge",
+        "word1": "bears",
+        "word2": "goldilocks",
+        "word3": "oatmeal",
+        "word4": "eat",
+        "word5": "breakfast"
+    },
+    {
+        "answer": "comedy",
+        "word1": "funny",
+        "word2": "jokes",
+        "word3": "laugh",
+        "word4": "stand-up",
+        "word5": "tragedy"
+    },
+    {
+        "answer": "apartment",
+        "word1": "flat",
+        "word2": "rent",
+        "word3": "live",
+        "word4": "house",
+        "word5": "sublet"
+    },
+    {
+        "answer": "wrinkle",
+        "word1": "creaae",
+        "word2": "line",
+        "word3": "old",
+        "word4": "skin",
+        "word5": "crow's-feet"
+    },
+    {
+        "answer": "soap",
+        "word1": "clean",
+        "word2": "wash",
+        "word3": "laundry",
+        "word4": "opera",
+        "word5": "suds"
+    },
+    {
+        "answer": "invisible",
+        "word1": "ghost",
+        "word2": "unseen",
+        "word3": "appear",
+        "word4": "transparent",
+        "word5": "man"
+    },
+    {
+        "answer": "clumsy",
+        "word1": "awkward",
+        "word2": "uncoordinated",
+        "word3": "drop",
+        "word4": "oaf",
+        "word5": "klutz"
+    },
+    {
+        "answer": "cricket",
+        "word1": "jiminy",
+        "word2": "insect",
+        "word3": "bug",
+        "word4": "sport",
+        "word5": "british"
+    },
+    {
+        "answer": "necklace",
+        "word1": "pearls",
+        "word2": "jewelry",
+        "word3": "bracelet",
+        "word4": "throat",
+        "word5": "wear"
+    }
 ]
