@@ -1622,5 +1622,509 @@
         "word3": "sponsor",
         "word4": "brand",
         "word5": "shoes"
-    }
+    },
+    {
+        "answer": "empire state building",
+        "word1": "new york",
+        "word2": "king kong",
+        "word3": "tallest",
+        "word4": "highest",
+        "word5": "skyscraper"
+    },
+    {
+        "answer": "busboy",
+        "word1": "waiter",
+        "word2": "dishes",
+        "word3": "restaurant",
+        "word4": "clears",
+        "word5": "tables"
+    },
+    {
+        "answer": "brandy",
+        "word1": "booze",
+        "word2": "drink",
+        "word3": "wine",
+        "word4": "liquor",
+        "word5": "alcohol"
+    },
+    {
+        "answer": "university",
+        "word1": "degree",
+        "word2": "campus",
+        "word3": "professor",
+        "word4": "college",
+        "word5": "school"
+    },
+    {
+        "answer": "gold",
+        "word1": "wedding ring",
+        "word2": "metal",
+        "word3": "jewelry",
+        "word4": "silver",
+        "word5": "carat"
+    },
+    {
+        "answer": "flat",
+        "word1": "chest",
+        "word2": "tire",
+        "word3": "broke",
+        "word4": "apartment",
+        "word5": "pancake"
+    },
+    {
+        "answer": "atlas",
+        "word1": "map",
+        "word2": "book",
+        "word3": "chart",
+        "word4": "world",
+        "word5": "globe"
+    },
+    {
+        "answer": "waiter",
+        "word1": "restaurant",
+        "word2": "waitress",
+        "word3": "serve",
+        "word4": "tip",
+        "word5": "eat"
+    },
+    {
+        "answer": "port",
+        "word1": "ship",
+        "word2": "dock",
+        "word3": "wine",
+        "word4": "harbor",
+        "word5": "starboard"
+    },
+    {
+        "answer": "candy cane",
+        "word1": "sweet",
+        "word2": "christmas",
+        "word3": "striped",
+        "word4": "eat",
+        "word5": "red"
+    },
+    {
+        "answer": "bicycle",
+        "word1": "2-wheeler",
+        "word2": "handlebars",
+        "word3": "pedal",
+        "word4": "10-speed",
+        "word5": "ride"
+    },
+    {
+        "answer": "quintuplets",
+        "word1": "babies",
+        "word2": "five",
+        "word3": "birth",
+        "word4": "more",
+        "word5": "multiple"
+    },
+    {
+        "answer": "valet",
+        "word1": "parking",
+        "word2": "drive",
+        "word3": "tip",
+        "word4": "car",
+        "word5": "restaurant"
+    },
+    {
+        "answer": "detroit",
+        "word1": "michigan",
+        "word2": "cars",
+        "word3": "motown",
+        "word4": "pistons",
+        "word5": "city"
+    },
+    {
+        "answer": "ambassador",
+        "word1": "diplomat",
+        "word2": "united nations",
+        "word3": "country",
+        "word4": "embassy",
+        "word5": "foreign"
+    },
+    {
+        "answer": "poison ivy",
+        "word1": "itch",
+        "word2": "plant",
+        "word3": "rash",
+        "word4": "scratch",
+        "word5": "leaves"
+    },
+    {
+        "answer": "post",
+        "word1": "cereal",
+        "word2": "offive",
+        "word3": "mail",
+        "word4": "notice",
+        "word5": "fence"
+    },
+    {
+        "answer": "butter",
+        "word1": "margarine",
+        "word2": "spread",
+        "word3": "dairy",
+        "word4": "yellow",
+        "word5": "popcorn"
+    },
+    {
+        "answer": "key",
+        "word1": "door",
+        "word2": "open",
+        "word3": "car",
+        "word4": "lock",
+        "word5": "house"
+    },
+    {
+        "answer": "software",
+        "word1": "program",
+        "word2": "computer",
+        "word3": "run",
+        "word4": "floppy disk",
+        "word5": "language"
+    },
+    {
+        "answer": "investment",
+        "word1": "future",
+        "word2": "finances",
+        "word3": "money",
+        "word4": "save",
+        "word5": "return"
+    },
+    {
+        "answer": "affluent",
+        "word1": "rich",
+        "word2": "luxury",
+        "word3": "well-to-do",
+        "word4": "wealthy",
+        "word5": "money"
+    },
+    {
+        "answer": "sit-ups",
+        "word1": "stomach",
+        "word2": "abdomen",
+        "word3": "exercise",
+        "word4": "muscles",
+        "word5": "floor"
+    },
+    {
+        "answer": "coast",
+        "word1": "ocean",
+        "word2": "guard",
+        "word3": "land",
+        "word4": "water",
+        "word5": "seashore"
+    },
+    {
+        "answer": "signature",
+        "word1": "name",
+        "word2": "document",
+        "word3": "john hancock",
+        "word4": "write",
+        "word5": "autograph"
+    },
+    {
+        "answer": "crayon",
+        "word1": "crayola",
+        "word2": "children",
+        "word3": "draw",
+        "word4": "kids",
+        "word5": "coloring book"
+    },
+    {
+        "answer": "bible",
+        "word1": "testament",
+        "word2": "book",
+        "word3": "swear",
+        "word4": "scriptures",
+        "word5": "holy"
+    },
+    {
+        "answer": "coincidence",
+        "word1": "unexpected",
+        "word2": "occurs",
+        "word3": "happen",
+        "word4": "same",
+        "word5": "chance"
+    },
+    {
+        "answer": "plagiarism",
+        "word1": "copy",
+        "word2": "steal",
+        "word3": "credit",
+        "word4": "word",
+        "word5": "ideas"
+    },
+    {
+        "answer": "beer",
+        "word1": "beverage",
+        "word2": "wine",
+        "word3": "drink",
+        "word4": "alcohol",
+        "word5": "six-pack"
+    },
+    {
+        "answer": "camp",
+        "word1": "fire",
+        "word2": "woods",
+        "word3": "summer",
+        "word4": "tent",
+        "word5": "scout"
+    },
+    {
+        "answer": "rainbow",
+        "word1": "over",
+        "word2": "colors",
+        "word3": "gold",
+        "word4": "sky",
+        "word5": "sun"
+    },
+    {
+        "answer": "pill",
+        "word1": "tablet",
+        "word2": "medicine",
+        "word3": "capsule",
+        "word4": "swallow",
+        "word5": "birth control"
+    },
+    {
+        "answer": "venus",
+        "word1": "love",
+        "word2": "goddess",
+        "word3": "planet",
+        "word4": "flytrap",
+        "word5": "beauty"
+    },
+    {
+        "answer": "jacket",
+        "word1": "coat",
+        "word2": "windbreaker",
+        "word3": "wear",
+        "word4": "blazer",
+        "word5": "sports"
+    },
+    {
+        "answer": "desert",
+        "word1": "sahara",
+        "word2": "cactus",
+        "word3": "hot",
+        "word4": "dry",
+        "word5": "sand"
+    },
+    {
+        "answer": "antique",
+        "word1": "old",
+        "word2": "ancient",
+        "word3": "dated",
+        "word4": "collector",
+        "word5": "furniture"
+    },
+    {
+        "answer": "microwave",
+        "word1": "food",
+        "word2": "appliance",
+        "word3": "oven",
+        "word4": "cook",
+        "word5": "fast"
+    },
+    {
+        "answer": "loiter",
+        "word1": "nothing",
+        "word2": "standing",
+        "word3": "street corner",
+        "word4": "hang",
+        "word5": "police"
+    },
+    {
+        "answer": "touch",
+        "word1": "hands",
+        "word2": "don't",
+        "word3": "feel",
+        "word4": "reach",
+        "word5": "down"
+    },
+    {
+        "answer": "chirp",
+        "word1": "bird",
+        "word2": "tweet",
+        "word3": "peep",
+        "word4": "sing",
+        "word5": "noise"
+    },
+    {
+        "answer": "orange",
+        "word1": "citrus",
+        "word2": "juice",
+        "word3": "round",
+        "word4": "fruit",
+        "word5": "marmalade"
+    },
+    {
+        "answer": "chimney",
+        "word1": "roof",
+        "word2": "smoke",
+        "word3": "brick",
+        "word4": "fireplace",
+        "word5": "santa claus"
+    },
+    {
+        "answer": "argument",
+        "word1": "spat",
+        "word2": "fight",
+        "word3": "dispute",
+        "word4": "yell",
+        "word5": "disagree"
+    },
+    {
+        "answer": "jail",
+        "word1": "prison",
+        "word2": "cell",
+        "word3": "slammer",
+        "word4": "convict",
+        "word5": "bars"
+    },
+    {
+        "answer": "huddle",
+        "word1": "gather",
+        "word2": "football",
+        "word3": "group",
+        "word4": "play",
+        "word5": "together"
+    },
+    {
+        "answer": "picnic",
+        "word1": "basket",
+        "word2": "ants",
+        "word3": "outside",
+        "word4": "eat",
+        "word5": "food"
+    },
+    {
+        "answer": "menace",
+        "word1": "dennis",
+        "word2": "mr. wilson",
+        "word3": "mischievous",
+        "word4": "boy",
+        "word5": "comic strip"
+    },
+    {
+        "answer": "knit",
+        "word1": "yarn",
+        "word2": "needle",
+        "word3": "sweater",
+        "word4": "crochet",
+        "word5": "purl"
+    },
+    {
+        "answer": "kettle",
+        "word1": "tea",
+        "word2": "pot",
+        "word3": "water",
+        "word4": "boil",
+        "word5": "whistle"
+    },
+    {
+        "answer": "tobacco",
+        "word1": "cigarette",
+        "word2": "leaf",
+        "word3": "chew",
+        "word4": "cancer",
+        "word5": "smoke"
+    },
+    {
+        "answer": "monogram",
+        "word1": "letters",
+        "word2": "initials",
+        "word3": "personalize",
+        "word4": "name",
+        "word5": "engraving"
+    },
+    {
+        "answer": "hives",
+        "word1": "bee",
+        "word2": "red",
+        "word3": "welts",
+        "word4": "allergic",
+        "word5": "rash"
+    },
+    {
+        "answer": "pickle",
+        "word1": "barrel",
+        "word2": "cucumber",
+        "word3": "dill",
+        "word4": "sour",
+        "word5": "green"
+    },
+    {
+        "answer": "scoop",
+        "word1": "ice cream",
+        "word2": "reporter",
+        "word3": "cone",
+        "word4": "newspaper",
+        "word5": "story"
+    },
+    {
+        "answer": "flashlight",
+        "word1": "batteries",
+        "word2": "beam",
+        "word3": "shine",
+        "word4": "dark",
+        "word5": "hand"
+    },
+    {
+        "answer": "linoleum",
+        "word1": "tile",
+        "word2": "flooring",
+        "word3": "kitchen",
+        "word4": "walk",
+        "word5": "covering"
+    },
+    {
+        "answer": "barber",
+        "word1": "haircut",
+        "word2": "scissors",
+        "word3": "shave",
+        "word4": "pole",
+        "word5": "head"
+    },
+    {
+        "answer": "kite",
+        "word1": "fly",
+        "word2": "wind",
+        "word3": "string",
+        "word4": "ben franklin",
+        "word5": "sky"
+    },
+    {
+        "answer": "carpenter",
+        "word1": "woodworker",
+        "word2": "build",
+        "word3": "cabinetmaker",
+        "word4": "construct",
+        "word5": "tools"
+    },
+    {
+        "answer": "invitation",
+        "word1": "wedding",
+        "word2": "rsvp",
+        "word3": "mail",
+        "word4": "party",
+        "word5": "friend"
+    },
+    {
+        "answer": "lawyer",
+        "word1": "attorney",
+        "word2": "courtroom",
+        "word3": "trial",
+        "word4": "sue",
+        "word5": "arrested"
+    },
+    {
+        "answer": "goblet",
+        "word1": "glass",
+        "word2": "drink",
+        "word3": "water",
+        "word4": "stemware",
+        "word5": "crystal"
+    },
 ]
